@@ -16,7 +16,7 @@ var members = ["Juan", "Melissa", "Nicolas", "German"]
 // __________________________________________
 // Refleccion: Escribe una refleccion aca sobre lo que aprendiste.
 //
-//
+//https://s-media-cache-ak0.pinimg.com/originals/f6/dc/9c/f6dc9c619f97e6457f8220665cb3c480.jpg
 //
 //
 //
