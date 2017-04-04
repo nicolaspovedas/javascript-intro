@@ -5,10 +5,17 @@
 // __________________________________________
 // Escribe tu codigo aca.
 
+<<<<<<< HEAD
 var secretNumber = 7
 var password = "just open the door"
 var allowedIn = false
 var members = ["Juan", "Melissa", "Nicolas", "German"]
+=======
+
+console.log('Yeahh')
+
+var secretNumber = 5
+>>>>>>> upstream/master
 
 
 
