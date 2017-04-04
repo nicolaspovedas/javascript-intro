@@ -1,0 +1,10 @@
+.racer_table td {
+  background-color: gray;
+  height: 20px;
+  width: 20px;
+}
+
+.racer_table td.active {
+background-color: gray;
+background-image: url("https://img.clipartfest.com/a563a1296d6a1b8bf92bd1c4ad36596c_sports-car-clipart-clipart-car-clipart-jpg_696-339.jpeg");
+}
