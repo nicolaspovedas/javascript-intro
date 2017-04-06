@@ -1,10 +1,16 @@
 .racer_table td {
   background-color: gray;
-  height: 20px;
-  width: 20px;
+  height: 40px;
+  width: 40px;
 }
 
 .racer_table td.active {
-background-color: gray;
-background-image: url("https://img.clipartfest.com/a563a1296d6a1b8bf92bd1c4ad36596c_sports-car-clipart-clipart-car-clipart-jpg_696-339.jpeg");
+background-color: transparent;
+background-image: url("http://vignette4.wikia.nocookie.net/mario/images/f/f0/Luigi_Moto.png/revision/latest?cb=20111122164047&path-prefix=es");
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.counter {
+
 }
